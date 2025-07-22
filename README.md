@@ -8,8 +8,8 @@
 
 📦 Notable Projects:
 - 🔌 [Bluetooth-Controlled Light System](https://github.com/KunalRaj007/stm32-bluetooth-relay-oled)
-- 🌡️ [stm32-object-detector]([https://github.com/...](https://github.com/KunalRaj007/stm32-object-detector))
-- 📟 [Servo Motor with ADC (Potentiometer Angle Control)]([https://github.com/...](https://github.com/KunalRaj007/stm32-servo-potentiometer))
+- 🌡️ [stm32-object-detector](https://github.com/KunalRaj007/stm32-object-detector)
+- 📟 [Servo Motor with ADC (Potentiometer Angle Control)](https://github.com/KunalRaj007/stm32-servo-potentiometer)
 
-📫 Let's connect: kunalraj98@gmail.com | 
+📫 Let's connect: kunalraj1699@gmail.com | 
 
