@@ -11,5 +11,7 @@
 - 🌡️ [stm32-object-detector](https://github.com/KunalRaj007/stm32-object-detector)
 - 📟 [Servo Motor with ADC (Potentiometer Angle Control)](https://github.com/KunalRaj007/stm32-servo-potentiometer)
 
-📫 Let's connect: kunalraj1699@gmail.com | 
+📫 Let's connect: kunalraj1699@gmail.com 
+![GitHub followers](https://img.shields.io/github/followers/KunalRaj007?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=KunalRaj007&color=blue)
 
