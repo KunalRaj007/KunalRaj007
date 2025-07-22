@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Kunal Raj
 
-<!--
-**KunalRaj007/KunalRaj007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Embedded Systems & IoT Engineer | STM32 | ESP32 | HAL | Bare-metal
 
-Here are some ideas to get you started:
+🔧 Skilled in Embedded C, STM32CubeIDE, UART, I2C, SPI, ADC, Timers, FreeRTOS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 Passionate about building real-world systems using microcontrollers & sensors
+
+📦 Notable Projects:
+- 🔌 [Bluetooth-Controlled Light System](https://github.com/KunalRaj007/stm32-bluetooth-relay-oled)
+- 🌡️ [stm32-object-detector]([https://github.com/...](https://github.com/KunalRaj007/stm32-object-detector))
+- 📟 [Servo Motor with ADC (Potentiometer Angle Control)]([https://github.com/...](https://github.com/KunalRaj007/stm32-servo-potentiometer))
+
+📫 Let's connect: kunalraj98@gmail.com | 
+
